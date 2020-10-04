@@ -1,1 +1,1 @@
-Final result [here] (https://haffgan.github.io/Background_gradient_generator/)
+Final result [here](https://haffgan.github.io/Background_gradient_generator/)
